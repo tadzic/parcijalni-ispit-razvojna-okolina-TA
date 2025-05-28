@@ -4,10 +4,10 @@
   "description": "test",
   "main": "app.js",
   "dependencies": {
+    "bootstrap": "^5.3.6",
     "express": "^4.17.1",
     "random": "^2.1.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
